@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "747171071049",
+    "project_id": "fund0notesmvvm",
+    "storage_bucket": "fund0notesmvvm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747171071049:android:9859e92898d085b1ceab98",
+        "android_client_info": {
+          "package_name": "com.example.fundonotes_mvvm_dao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747171071049-lothd1fir6h2hjuigtjq5mf7jo5244ps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fundonotes_mvvm_dao",
+            "certificate_hash": "d68ffa3fd520206190293b144a2502bbe9dfe459"
+          }
+        },
+        {
+          "client_id": "747171071049-13fpbsc3joone5r6eu4a1q4fh5n0rckl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlgk2PNmxutgMYOSf0wguROlynv-w6Lvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747171071049-13fpbsc3joone5r6eu4a1q4fh5n0rckl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
